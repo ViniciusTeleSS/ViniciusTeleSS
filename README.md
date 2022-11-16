@@ -1,4 +1,4 @@
-## Olá, eu sou Vinicius Teles ✌
+## Olá, Me chamo Vinicius Teles ✌
 
 - 🔭 Atualmente trabalho na empresa Santander
 - 🌱 Estou estudando Python e SQL
