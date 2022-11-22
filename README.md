@@ -1,7 +1,7 @@
 ## Olá, Me chamo Vinicius Teles ✌
 
 - 🔭 Atualmente trabalho na empresa Santander
-- 🌱 Estou estudando Python e SQL
+- 🌱 Estou estudando Python
 - 🎓 Estudo ciência da computação na Universidade São Judas Tadeu 2/8
 - ⚡ Fun fact: Comecei a trabalhar na area de T.I antes de começar a estudar, Excel me proporcionou isso 😂
 
