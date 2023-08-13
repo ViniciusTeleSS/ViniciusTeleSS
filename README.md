@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho na empresa Santander
 - 🌱 Estou estudando Python
-- 🎓 Estudo ciência da computação na Universidade São Judas Tadeu 3/8
+- 🎓 Estudo ciência da computação na Universidade São Judas Tadeu 4/8
 - ⚡ Fun fact: Comecei a trabalhar na area de T.I antes de começar a estudar, Excel me proporcionou isso 😂
 
 <div align="center">
